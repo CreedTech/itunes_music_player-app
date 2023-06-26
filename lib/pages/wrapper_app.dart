@@ -23,7 +23,7 @@ class WrapperApp extends StatelessWidget {
     Size size = MediaQuery.of(context).size;
 
     return Container(
-      height: 65.5,
+      height: 100.2,
       padding:
           EdgeInsets.only(left: size.width * 0.13, right: size.width * 0.13),
       decoration: BoxDecoration(
